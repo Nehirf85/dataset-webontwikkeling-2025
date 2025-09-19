@@ -5,7 +5,7 @@
     "releaseYear": 2009,
     "genre": "Science Fiction",
     "boxOffice": 2923706026,
-    "posterUrl": "https://example.com/images/movies/avatar.jpg",
+    "posterUrl": "https://raw.githubusercontent.com/Nehirf85/dataset-webontwikkeling-2025/refs/heads/main/images/fotos%20van%20films/avatar.png",
     "director": "James Cameron",
     "oscarWinner": true
   },
@@ -15,7 +15,7 @@
     "releaseYear": 2010,
     "genre": "Science Fiction",
     "boxOffice": 836800000,
-    "posterUrl": "https://example.com/images/movies/inception.jpg",
+    "posterUrl": "https://raw.githubusercontent.com/Nehirf85/dataset-webontwikkeling-2025/refs/heads/main/images/fotos%20van%20films/inception.png",
     "director": "Christopher Nolan",
     "oscarWinner": true
   },
@@ -25,7 +25,7 @@
     "releaseYear": 1993,
     "genre": "Adventure",
     "boxOffice": 1040000000,
-    "posterUrl": "https://example.com/images/movies/jurassic-park.jpg",
+    "posterUrl": "https://raw.githubusercontent.com/Nehirf85/dataset-webontwikkeling-2025/refs/heads/main/images/fotos%20van%20films/jurassicpark.png",
     "director": "Steven Spielberg",
     "oscarWinner": true
   },
@@ -35,7 +35,7 @@
     "releaseYear": 1994,
     "genre": "Crime",
     "boxOffice": 213900000,
-    "posterUrl": "https://example.com/images/movies/pulp-fiction.jpg",
+    "posterUrl": "https://raw.githubusercontent.com/Nehirf85/dataset-webontwikkeling-2025/refs/heads/main/images/fotos%20van%20films/pulpfiction.png",
     "director": "Quentin Tarantino",
     "oscarWinner": true
   },
@@ -45,7 +45,7 @@
     "releaseYear": 2013,
     "genre": "Biography",
     "boxOffice": 406900000,
-    "posterUrl": "https://example.com/images/movies/wolf-of-wall-street.jpg",
+    "posterUrl": "https://raw.githubusercontent.com/Nehirf85/dataset-webontwikkeling-2025/refs/heads/main/images/fotos%20van%20films/wolfofwallstreet.png",
     "director": "Martin Scorsese",
     "oscarWinner": false
   },
@@ -55,7 +55,7 @@
     "releaseYear": 2000,
     "genre": "Historical Drama",
     "boxOffice": 465400000,
-    "posterUrl": "https://example.com/images/movies/gladiator.jpg",
+    "posterUrl": "https://raw.githubusercontent.com/Nehirf85/dataset-webontwikkeling-2025/refs/heads/main/images/fotos%20van%20films/gladiator.png",
     "director": "Ridley Scott",
     "oscarWinner": true
   },
@@ -65,7 +65,7 @@
     "releaseYear": 1972,
     "genre": "Crime",
     "boxOffice": 250000000,
-    "posterUrl": "https://example.com/images/movies/godfather.jpg",
+    "posterUrl": "https://raw.githubusercontent.com/Nehirf85/dataset-webontwikkeling-2025/refs/heads/main/images/fotos%20van%20films/godfather.png",
     "director": "Francis Ford Coppola",
     "oscarWinner": true
   },
@@ -75,7 +75,7 @@
     "releaseYear": 2003,
     "genre": "Fantasy",
     "boxOffice": 1142000000,
-    "posterUrl": "https://example.com/images/movies/lotr-return.jpg",
+    "posterUrl": "https://raw.githubusercontent.com/Nehirf85/dataset-webontwikkeling-2025/refs/heads/main/images/fotos%20van%20films/lotr.png",
     "director": "Peter Jackson",
     "oscarWinner": true
   },
@@ -85,7 +85,7 @@
     "releaseYear": 1968,
     "genre": "Science Fiction",
     "boxOffice": 146000000,
-    "posterUrl": "https://example.com/images/movies/2001.jpg",
+    "posterUrl": "https://raw.githubusercontent.com/Nehirf85/dataset-webontwikkeling-2025/refs/heads/main/images/fotos%20van%20films/2001.png",
     "director": "Stanley Kubrick",
     "oscarWinner": true
   },
@@ -95,7 +95,7 @@
     "releaseYear": 2006,
     "genre": "Fantasy",
     "boxOffice": 83400000,
-    "posterUrl": "https://example.com/images/movies/pans-labyrinth.jpg",
+    "posterUrl": "https://raw.githubusercontent.com/Nehirf85/dataset-webontwikkeling-2025/refs/heads/main/images/fotos%20van%20films/panslabyrinth.png",
     "director": "Guillermo del Toro",
     "oscarWinner": true
   }

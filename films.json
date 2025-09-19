@@ -1,0 +1,102 @@
+[
+  {
+    "id": "MOV-001",
+    "title": "Avatar",
+    "releaseYear": 2009,
+    "genre": "Science Fiction",
+    "boxOffice": 2923706026,
+    "posterUrl": "https://example.com/images/movies/avatar.jpg",
+    "director": "James Cameron",
+    "oscarWinner": true
+  },
+  {
+    "id": "MOV-002",
+    "title": "Inception",
+    "releaseYear": 2010,
+    "genre": "Science Fiction",
+    "boxOffice": 836800000,
+    "posterUrl": "https://example.com/images/movies/inception.jpg",
+    "director": "Christopher Nolan",
+    "oscarWinner": true
+  },
+  {
+    "id": "MOV-003",
+    "title": "Jurassic Park",
+    "releaseYear": 1993,
+    "genre": "Adventure",
+    "boxOffice": 1040000000,
+    "posterUrl": "https://example.com/images/movies/jurassic-park.jpg",
+    "director": "Steven Spielberg",
+    "oscarWinner": true
+  },
+  {
+    "id": "MOV-004",
+    "title": "Pulp Fiction",
+    "releaseYear": 1994,
+    "genre": "Crime",
+    "boxOffice": 213900000,
+    "posterUrl": "https://example.com/images/movies/pulp-fiction.jpg",
+    "director": "Quentin Tarantino",
+    "oscarWinner": true
+  },
+  {
+    "id": "MOV-005",
+    "title": "The Wolf of Wall Street",
+    "releaseYear": 2013,
+    "genre": "Biography",
+    "boxOffice": 406900000,
+    "posterUrl": "https://example.com/images/movies/wolf-of-wall-street.jpg",
+    "director": "Martin Scorsese",
+    "oscarWinner": false
+  },
+  {
+    "id": "MOV-006",
+    "title": "Gladiator",
+    "releaseYear": 2000,
+    "genre": "Historical Drama",
+    "boxOffice": 465400000,
+    "posterUrl": "https://example.com/images/movies/gladiator.jpg",
+    "director": "Ridley Scott",
+    "oscarWinner": true
+  },
+  {
+    "id": "MOV-007",
+    "title": "The Godfather",
+    "releaseYear": 1972,
+    "genre": "Crime",
+    "boxOffice": 250000000,
+    "posterUrl": "https://example.com/images/movies/godfather.jpg",
+    "director": "Francis Ford Coppola",
+    "oscarWinner": true
+  },
+  {
+    "id": "MOV-008",
+    "title": "The Lord of the Rings: The Return of the King",
+    "releaseYear": 2003,
+    "genre": "Fantasy",
+    "boxOffice": 1142000000,
+    "posterUrl": "https://example.com/images/movies/lotr-return.jpg",
+    "director": "Peter Jackson",
+    "oscarWinner": true
+  },
+  {
+    "id": "MOV-009",
+    "title": "2001: A Space Odyssey",
+    "releaseYear": 1968,
+    "genre": "Science Fiction",
+    "boxOffice": 146000000,
+    "posterUrl": "https://example.com/images/movies/2001.jpg",
+    "director": "Stanley Kubrick",
+    "oscarWinner": true
+  },
+  {
+    "id": "MOV-010",
+    "title": "Pan's Labyrinth",
+    "releaseYear": 2006,
+    "genre": "Fantasy",
+    "boxOffice": 83400000,
+    "posterUrl": "https://example.com/images/movies/pans-labyrinth.jpg",
+    "director": "Guillermo del Toro",
+    "oscarWinner": true
+  }
+]

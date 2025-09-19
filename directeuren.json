@@ -1,0 +1,143 @@
+[
+  {
+    "id": "DIR-001",
+    "name": "James Cameron",
+    "description": "James Cameron is a Canadian filmmaker known for his innovative use of technology and record-breaking box office hits.",
+    "age": 70,
+    "isActive": true,
+    "birthDate": "1954-08-16",
+    "imageUrl": "https://example.com/images/james-cameron.jpg",
+    "category": "Director",
+    "hobbies": ["Deep-sea exploration", "Screenwriting", "Photography"],
+    "affiliation": {
+      "id": "MOV-001",
+         }
+  },
+  {
+    "id": "DIR-002",
+    "name": "Christopher Nolan",
+    "description": "Christopher Nolan is a British-American filmmaker acclaimed for his cerebral, nonlinear storytelling and practical effects.",
+    "age": 54,
+    "isActive": true,
+    "birthDate": "1970-07-30",
+    "imageUrl": "https://example.com/images/christopher-nolan.jpg",
+    "category": "Director",
+    "hobbies": ["Philosophy", "Writing", "Film editing"],
+    "affiliation": {
+      "id": "MOV-002",
+          }
+  },
+  {
+    "id": "DIR-003",
+    "name": "Steven Spielberg",
+    "description": "Steven Spielberg is one of the most influential filmmakers in the history of cinema, with a career spanning over five decades.",
+    "age": 77,
+    "isActive": true,
+    "birthDate": "1946-12-18",
+    "imageUrl": "https://example.com/images/steven-spielberg.jpg",
+    "category": "Director",
+    "hobbies": ["History", "Collecting film memorabilia", "Storytelling"],
+    "affiliation": {
+      "id": "MOV-003",
+      
+    }
+  },
+  {
+    "id": "DIR-004",
+    "name": "Quentin Tarantino",
+    "description": "Quentin Tarantino is an American filmmaker known for his sharp dialogue, nonlinear plots, and stylized violence.",
+    "age": 61,
+    "isActive": true,
+    "birthDate": "1963-03-27",
+    "imageUrl": "https://example.com/images/quentin-tarantino.jpg",
+    "category": "Director",
+    "hobbies": ["Collecting films", "Martial arts", "Writing"],
+    "affiliation": {
+      "id": "MOV-004",
+         }
+  },
+  {
+    "id": "DIR-005",
+    "name": "Martin Scorsese",
+    "description": "Martin Scorsese is an American filmmaker known for his gritty, meticulous storytelling and exploration of crime and redemption.",
+    "age": 81,
+    "isActive": true,
+    "birthDate": "1942-11-17",
+    "imageUrl": "https://example.com/images/martin-scorsese.jpg",
+    "category": "Director",
+    "hobbies": ["Film preservation", "Music", "Teaching"],
+    "affiliation": {
+      "id": "MOV-005",
+          }
+  },
+  {
+    "id": "DIR-006",
+    "name": "Ridley Scott",
+    "description": "Ridley Scott is a British filmmaker famous for his visually striking and atmospheric films.",
+    "age": 87,
+    "isActive": true,
+    "birthDate": "1937-11-30",
+    "imageUrl": "https://example.com/images/ridley-scott.jpg",
+    "category": "Director",
+    "hobbies": ["Art", "Design", "Storyboarding"],
+    "affiliation": {
+      "id": "MOV-006",
+        }
+  },
+  {
+    "id": "DIR-007",
+    "name": "Francis Ford Coppola",
+    "description": "Francis Ford Coppola is an American film director, producer, and screenwriter, best known for 'The Godfather' trilogy.",
+    "age": 85,
+    "isActive": false,
+    "birthDate": "1939-04-07",
+    "imageUrl": "https://example.com/images/francis-ford-coppola.jpg",
+    "category": "Director",
+    "hobbies": ["Wine making", "Writing", "Family business"],
+    "affiliation": {
+      "id": "MOV-007",
+         }
+  },
+  {
+    "id": "DIR-008",
+    "name": "Peter Jackson",
+    "description": "Peter Jackson is a New Zealand filmmaker known for directing 'The Lord of the Rings' trilogy.",
+    "age": 63,
+    "isActive": true,
+    "birthDate": "1961-10-31",
+    "imageUrl": "https://example.com/images/peter-jackson.jpg",
+    "category": "Director",
+    "hobbies": ["Miniatures", "Writing", "Collecting"],
+    "affiliation": {
+      "id": "MOV-008",
+         }
+  },
+  {
+    "id": "DIR-009",
+    "name": "Stanley Kubrick",
+    "description": "Stanley Kubrick was an American filmmaker recognized for his meticulous craftsmanship and provocative storytelling.",
+    "age": 70,
+    "isActive": false,
+    "birthDate": "1928-07-26",
+    "imageUrl": "https://example.com/images/stanley-kubrick.jpg",
+    "category": "Director",
+    "hobbies": ["Photography", "Chess", "Writing"],
+    "affiliation": {
+      "id": "MOV-009",
+        }
+  },
+  {
+    "id": "DIR-010",
+    "name": "Guillermo del Toro",
+    "description": "Guillermo del Toro is a Mexican filmmaker known for his dark fantasy and horror storytelling.",
+    "age": 60,
+    "isActive": true,
+    "birthDate": "1964-10-09",
+    "imageUrl": "https://example.com/images/guillermo-del-toro.jpg",
+    "category": "Director",
+    "hobbies": ["Monster design", "Drawing", "Collecting antiques"],
+    "affiliation": {
+      "id": "MOV-010",
+        }
+  }
+]
